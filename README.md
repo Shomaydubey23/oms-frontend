@@ -179,7 +179,3 @@ http://localhost:8080
 * Full Stack Java Developer
 * React JS Developer
 * Spring Boot Enthusiast
-
----
-
-⭐ If you found this project helpful, consider giving it a star on GitHub.
