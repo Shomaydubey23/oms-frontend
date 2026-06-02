@@ -107,7 +107,7 @@ The Office Management System is designed to help organizations manage their work
 
 ### Announcements
 
-![Announcements](images/annoucemnnet.png)
+![Announcements](images/annoucenmnet.png)
 
 ---
 
