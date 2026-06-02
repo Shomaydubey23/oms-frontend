@@ -81,13 +81,13 @@ The Office Management System is designed to help organizations manage their work
 
 ## 📸 Project Screenshots
 
-### Login Page
-
-![Login](images/Login.png)
-
 ### First Page
 
 ![First Page](images/Firstpage.png)
+
+### Login Page
+
+![Login](images/Login.png)
 
 ### Home Page
 
